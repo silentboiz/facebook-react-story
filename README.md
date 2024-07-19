@@ -2,7 +2,6 @@
 
 ## My Facebook
 
-https://www.facebook.com/profile.php?id=100095394342086
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100095394342086&mibextid=ZbWKwL)
 
 
