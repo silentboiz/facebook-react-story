@@ -14,4 +14,4 @@ directory and reload Facebook tab.
 If you like my project, give it a star ✨ and share it with your friends
 
 ## License
-Source by whoant
+Source by whoant & update by silentboiz
